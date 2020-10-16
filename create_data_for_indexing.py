@@ -7,13 +7,14 @@ for path in paths:
     with open(path, 'r') as f:
         data = json.load(f)
         
-        info = {
-            'id': data[0]['id'],
-            'title': data[0]['snippet']['title'],
-            'description': data[0]['snippet']['description']
-        }
-        
-        results.append(info)
+        if data: # if data is not empty
+            info = {
+                'id': data[0]['id'],
+                'title': data[0]['snippet']['title'],
+                'description': data[0]['snippet']['description']
+            }
+            
+            results.append(info)
 
 with open('data_for_indexing.json', 'w') as dump_file:
     json.dump(results, dump_file)
