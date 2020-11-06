@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+
+{% block title %}Search{% endblock %}
+
+{% block search %}class="active"{% endblock %}
+
+{% block body %}
+    <h1>Search</h1>
+    <form action="query_view" method="GET">
+        <input type="text" name="q" placeholder="Ex: imposter, play, friends">
+        <input type="submit" value="Search">
+    </form>
+    {% for item in results %}
+        <a href="{{ item.url }}"><p>{{ item.title }}</p></a>
+        <p>{{ item.description }}</p>
+        <br>
+    {% endfor %}
+
+    {% if results %}
+        <p>Page
+            {% for index in range(1, page_count + 1) %}
+                <a href="query_view?q={{ query_term }}&p={{ index }}">{{ index }}</a>
+            {% endfor %}
+        </p>
+    {% endif %}
+{% endblock %}

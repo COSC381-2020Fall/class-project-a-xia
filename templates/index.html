@@ -1,10 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<title>Hello, world!</title>
-	</head>
-	<body>
-        <p>Hello, {{ name }}!</p>
-    </body>
-</html>
+{% extends "layout.html" %}
+
+{% block title %}Hello, world!{% endblock %}
+
+{% block home %}class="active"{% endblock %}
+
+{% block body %}
+    <h1>Home</h1>
+    <div>
+        {% if name %}
+            Hello, {{ name }}!
+        {% else %}
+            Your name: 
+            <form method="GET" style="display: inline">
+                <input type="text" name="name" style="display: inline">
+                <input type="submit" value="Enter">
+            </form>
+        {% endif %}
+        </div>
+{% endblock %}
