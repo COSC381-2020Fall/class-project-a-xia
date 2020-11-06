@@ -1,0 +1,29 @@
+{% extends "layout.html" %}
+
+{% block title %}Feedback{% endblock %}
+
+{% block feedback %}class="active"{% endblock %}
+
+{% block body %}
+    <h1>Send us your feedback</h1>
+    <form action="success" method="POST">
+        <table class="formtable">
+            <tr>
+                <th><label>Email: </label></th>
+                <td><input type="email" name="email"> (Optional - receive a copy of your message)</td>
+            </tr>
+            <tr>
+                <th><label class="required">Subject: </label></th>
+                <td><input type="text" name="subject" required="true"></td>
+            </tr>
+            <tr>
+                <th><label class="required">Message: </label></th>
+                <td style="width:max-content"><textarea name="body" cols="65" rows="10" placeholder="Tell us how we're doing!" required="true"></textarea></td>
+            </tr>
+            <tr>
+                <th></th>
+                <td><input type="submit" value="Submit"></td>
+            </tr>
+        </table>
+    </form>
+{% endblock %}
