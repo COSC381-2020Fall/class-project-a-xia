@@ -39,7 +39,7 @@ def handle_query_view():
 def handle_feedback():
     return render_template("feedback.html")
 
-@app.route("/success", methods=['POST'], strict_slashes=False)
+@app.route("/submit", methods=['POST'], strict_slashes=False)
 def handle_request():
     subject = request.form["subject"]
     body = request.form["body"]
@@ -48,11 +48,11 @@ def handle_request():
     server.login("axia@emich.edu", config.gmail_pw)
     
     # check if an email was submitted
-    if "email" in request.form:
+    if request.form["email"] != "":
         message = 'Subject: {}\n\n{}'.format("Your feedback", "Subject: " + subject + "\n\nMessage: " + body)
         server.sendmail("axia@emich.edu", request.form["email"], message)
     
     message = 'Subject: {}\n\n{}'.format("Feedback: " + subject, body)
     server.sendmail("axia@emich.edu", "axia@emich.edu", message)
-    return render_template("success.html")
+    return render_template("submitted.html")
 
