@@ -4,33 +4,35 @@ body {
 	font-family:serif;
 	margin:0;
 }
-ul.nav {
+div.nav {
+	overflow: auto;
+	background-color:#072237;
+}
+div.nav ul {
 	list-style-type:none;
 	width:100%;
 	top:0;
 	margin:0;
 	padding:0;
-	background-color:#072237;
-	position:fixed;
 }
-ul.nav li {
+div.nav li {
 	float:left;
 }
-ul.nav li a {
+div.nav li a {
 	display:block;
 	color:white;
 	text-align:center;
 	padding:14px 20px;
 	text-decoration:none;
 }
-ul.nav li a:hover:not(.active) {
+div.nav li a:hover:not(.active) {
 	background-color:#010D18;
 }
 .active {
 	background-color:#005499;
 }
 div.body {
-    margin:68px 10px 10px;
+	padding:0px 10px 10px;
 }
 table.formtable {
 	border-spacing: 8px;
