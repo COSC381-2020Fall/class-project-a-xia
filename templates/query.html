@@ -23,4 +23,10 @@
             {% endfor %}
         </p>
     {% endif %}
+
+    <ul>
+        {% for history_item in history %}
+            <li>{{ history_item[1] }}</li>
+        {% endfor %}
+    </ul>
 {% endblock %}

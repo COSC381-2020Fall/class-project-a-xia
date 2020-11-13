@@ -1,5 +1,6 @@
 import math
 import smtplib
+import sqlite3
 from flask import Flask, render_template, request, jsonify
 
 import query_on_whoosh
@@ -29,11 +30,23 @@ def handle_query_view():
     else:
         page_num = 1
     
+    conn = sqlite3.connect('search_history.db')
+    c = conn.cursor()
+    c.execute("INSERT INTO search_terms (term, search_time) VALUES (?, strftime('%s', 'now'));", (query_term,))
+    c.execute("SELECT * FROM search_terms;")
+    rows = c.fetchall()
+    conn.commit()
+    conn.close()
+    
     query_results = query_on_whoosh.query(query_term, 10, page_num)
     search_results = query_results[0]
     results_num = int(query_results[1])
     page_count = math.ceil(results_num/10)
-    return render_template("query.html", results=search_results, query_term=query_term, page_count=page_count)
+    return render_template("query.html",
+                           results=search_results,
+                           query_term=query_term,
+                           page_count=page_count,
+                           history=rows)
 
 @app.route("/feedback", strict_slashes=False)
 def handle_feedback():
