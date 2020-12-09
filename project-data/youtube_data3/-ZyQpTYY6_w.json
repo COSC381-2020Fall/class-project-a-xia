@@ -1,0 +1,83 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "VwWOmZIMh0rQuO43ILZHaWr90fs",
+        "id": "-ZyQpTYY6_w",
+        "snippet": {
+            "publishedAt": "2013-09-29T02:21:31Z",
+            "channelId": "UCcPam6Ricb-rgIkcEjCeCUA",
+            "title": "Minecraft: Antichamber Mod Teaser",
+            "description": "A small teaser on the Antichamber Mod for Minecraft. The mod is still a WIP and will be released when it's ready.\n\nUPDATE: Some of you doubt that this is really Minecraft. Here, have an album full of screenshots. http://imgur.com/a/Nwpjx\n\nMany thanks to all the people who have contributed and are currently contributing to this mod.\n\n- Demruth (Alexander Bruce) - For making Antichamber, also an all round nice guy who allowed me to continue working on this mod. Go check out his game (seriously)! \nhttp://store.steampowered.com/app/219890\nhttp://www.antichamber-game.com/\n\n- Mr_hazard - Matter Gun (mc) design - https://twitter.com/Damien_hazard\n\n- Punchaface - Sounds FX - https://soundcloud.com/punchaface\n\n- Lokidarkfire - Sign Art - https://www.youtube.com/user/LokiKeanu\n\n- aginsun - That guy in the tiny SMP scene.\n\nThe build team, with you guys the map would never be at where it's at now.\n- WoWAsshi (lead level design)\n- Mj11jM\n- Malqua\n- TheMattaBase\n- Alphamine19\n- iPixeli\n- Necrogami\n\nBGM is \"Wasteland\" by Punchaface. Used with permission.\n\n==============================\nCheck out my blog! http://ichun.us/\nJoin the IRC channel! #iChun on espernet\nFollow me on Twitter! https://twitter.com/ohaiiChun",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-ZyQpTYY6_w/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-ZyQpTYY6_w/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-ZyQpTYY6_w/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/-ZyQpTYY6_w/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/-ZyQpTYY6_w/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "oHaiiChun",
+            "tags": [
+                "minecraft",
+                "letsplay",
+                "forgecraft",
+                "feedthebeast",
+                "ftb",
+                "mods",
+                "ichun",
+                "direwolf20",
+                "sotmead",
+                "mead",
+                "slowpoke",
+                "slowpoke101",
+                "portalgun",
+                "buildcraft",
+                "industrialcraft",
+                "bc",
+                "ic2",
+                "portal",
+                "gravitygun",
+                "xycraft",
+                "soaryn",
+                "jadedcat",
+                "redpower",
+                "eloraam",
+                "antichamber",
+                "demruth",
+                "alexander",
+                "bruce",
+                "teaser",
+                "mind",
+                "blowing",
+                "non",
+                "euclidean",
+                "geometry"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Minecraft: Antichamber Mod Teaser",
+                "description": "A small teaser on the Antichamber Mod for Minecraft. The mod is still a WIP and will be released when it's ready.\n\nUPDATE: Some of you doubt that this is really Minecraft. Here, have an album full of screenshots. http://imgur.com/a/Nwpjx\n\nMany thanks to all the people who have contributed and are currently contributing to this mod.\n\n- Demruth (Alexander Bruce) - For making Antichamber, also an all round nice guy who allowed me to continue working on this mod. Go check out his game (seriously)! \nhttp://store.steampowered.com/app/219890\nhttp://www.antichamber-game.com/\n\n- Mr_hazard - Matter Gun (mc) design - https://twitter.com/Damien_hazard\n\n- Punchaface - Sounds FX - https://soundcloud.com/punchaface\n\n- Lokidarkfire - Sign Art - https://www.youtube.com/user/LokiKeanu\n\n- aginsun - That guy in the tiny SMP scene.\n\nThe build team, with you guys the map would never be at where it's at now.\n- WoWAsshi (lead level design)\n- Mj11jM\n- Malqua\n- TheMattaBase\n- Alphamine19\n- iPixeli\n- Necrogami\n\nBGM is \"Wasteland\" by Punchaface. Used with permission.\n\n==============================\nCheck out my blog! http://ichun.us/\nJoin the IRC channel! #iChun on espernet\nFollow me on Twitter! https://twitter.com/ohaiiChun"
+            }
+        }
+    }
+]

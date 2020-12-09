@@ -1,0 +1,51 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "XlPXLSfkPZxlpFdJ2uPXcRZEHb0",
+        "id": "CZ4-9nRANog",
+        "snippet": {
+            "publishedAt": "2014-01-28T19:39:06Z",
+            "channelId": "UCuVIWETFdxzwlHEHMbhm2_w",
+            "title": "Antichamber : Vale ou não a pena jogar",
+            "description": "Análise Completa.\nAvaliem por favor e Favoritem! Grande Abraço a Todos Vcs! Tudo de Melhor Sempre!\n\nFanPage: http://www.facebook.com/pages/Zangado-Games/506885876006282\n\nTwitter: https://twitter.com/ZangadoGames",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CZ4-9nRANog/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CZ4-9nRANog/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CZ4-9nRANog/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/CZ4-9nRANog/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/CZ4-9nRANog/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "TioZangado",
+            "tags": [
+                "antichamber",
+                "zangado"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Antichamber : Vale ou não a pena jogar",
+                "description": "Análise Completa.\nAvaliem por favor e Favoritem! Grande Abraço a Todos Vcs! Tudo de Melhor Sempre!\n\nFanPage: http://www.facebook.com/pages/Zangado-Games/506885876006282\n\nTwitter: https://twitter.com/ZangadoGames"
+            }
+        }
+    }
+]

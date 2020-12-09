@@ -1,0 +1,68 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "8rGBPMG7G14czKjzscVLHpOpS0U",
+        "id": "_iD2_TKgt_0",
+        "snippet": {
+            "publishedAt": "2020-11-04T10:00:08Z",
+            "channelId": "UC_ADhkBQFudvyhdpsBJJvYw",
+            "title": "Let’s Play Antichamber #10: Ascending the Tower",
+            "description": "This is a blind playthrough. Kindly avoid posting spoilers in the comments or solutions to puzzles either in this video or future ones so as not to spoil the experience for me or those that haven’t seen the game before.\n\nSome people watch the videos for this game and lament that I don’t cut out or accelerate the time spent figuring out and solving the puzzles. For me, the joy of puzzle solving is the process itself, working out what the game wants from you and then making it happen with the tools you have available. For games such as this, the journey is far more important than the destination and if you focus only on reaching the end goal, you’ll miss all the amazing experiences along the way. Additionally, cutting out or condensing the puzzling pondering part of the game will prevent me from showing what the game is actually like, something I consider very important with my content.\n\nThat aside, we’ve finally gotten past the seemingly impossible puzzle which has brought us to another place with more puzzles yet. Slowly we’re whittling down the avenues we can progress down, for some require a tool that we don’t yet possess: the red thingy. Whatever power it possesses must be fantastic indeed which makes me hope that I’ll get hold of it soon.\n\nTwitter: https://twitter.com/Kikoskia\nPatreon: https://www.patreon.com/kikoskia\nDiscord: https://discordapp.com/invite/X2YUmPh",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_iD2_TKgt_0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_iD2_TKgt_0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_iD2_TKgt_0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_iD2_TKgt_0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/_iD2_TKgt_0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Kikoskia",
+            "tags": [
+                "let’s play",
+                "kikoskia",
+                "antichamber",
+                "PC",
+                "demurth",
+                "first person",
+                "puzzle",
+                "platformer",
+                "think outside box",
+                "stark colours",
+                "non-euclidean",
+                "blocks",
+                "beams",
+                "map",
+                "timer",
+                "blind playthrough",
+                "mystery",
+                "brain teasers"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Let’s Play Antichamber #10: Ascending the Tower",
+                "description": "This is a blind playthrough. Kindly avoid posting spoilers in the comments or solutions to puzzles either in this video or future ones so as not to spoil the experience for me or those that haven’t seen the game before.\n\nSome people watch the videos for this game and lament that I don’t cut out or accelerate the time spent figuring out and solving the puzzles. For me, the joy of puzzle solving is the process itself, working out what the game wants from you and then making it happen with the tools you have available. For games such as this, the journey is far more important than the destination and if you focus only on reaching the end goal, you’ll miss all the amazing experiences along the way. Additionally, cutting out or condensing the puzzling pondering part of the game will prevent me from showing what the game is actually like, something I consider very important with my content.\n\nThat aside, we’ve finally gotten past the seemingly impossible puzzle which has brought us to another place with more puzzles yet. Slowly we’re whittling down the avenues we can progress down, for some require a tool that we don’t yet possess: the red thingy. Whatever power it possesses must be fantastic indeed which makes me hope that I’ll get hold of it soon.\n\nTwitter: https://twitter.com/Kikoskia\nPatreon: https://www.patreon.com/kikoskia\nDiscord: https://discordapp.com/invite/X2YUmPh"
+            },
+            "defaultAudioLanguage": "en-GB"
+        }
+    }
+]

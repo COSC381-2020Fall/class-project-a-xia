@@ -18,5 +18,5 @@ if __name__ ==  '__main__':
 	for i in range(10):
 		results += google_search(my_search_topic, start=(i*10+1), num=10)
 	
-	with open('google_search.json', 'w', encoding='utf-8') as f:
+	with open('google_search3.json', 'w', encoding='utf-8') as f:
 		json.dump(results, f, ensure_ascii=False, indent=4)

@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "2kBBadUxVN11hWXyF2lwJRpwtVY",
+        "id": "gyDOrNbvFN8",
+        "snippet": {
+            "publishedAt": "2018-01-22T17:24:44Z",
+            "channelId": "UC0JB7TSe49lg56u6qH8y_MQ",
+            "title": "Slime Rancher: A Preemptive Postmortem",
+            "description": "In this 2017 GDC postmortem, Monomi Park's Nick Popovich discusses the development history of Slime Rancher so far and how it was managed during its first year of Early Access.\n\nRegister for GDC: http://ubm.io/2gk5KTU\n\nJoin the GDC mailing list: http://www.gdconf.com/subscribe\n\nFollow GDC on Twitter: https://twitter.com/Official_GDC \n\nGDC talks cover a range of developmental topics including game design, programming, audio, visual arts, business management, production, online games, and much more. We post a fresh GDC video every day.  Subscribe to the channel to stay on top of regular updates, and check out GDC Vault  for thousands of more in-depth talks from our archives.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/gyDOrNbvFN8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/gyDOrNbvFN8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/gyDOrNbvFN8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/gyDOrNbvFN8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/gyDOrNbvFN8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "GDC",
+            "tags": [
+                "gdc",
+                "talk",
+                "panel",
+                "game",
+                "games",
+                "gaming",
+                "development",
+                "hd",
+                "design",
+                "slime rancher",
+                "game design",
+                "steam",
+                "early access"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Slime Rancher: A Preemptive Postmortem",
+                "description": "In this 2017 GDC postmortem, Monomi Park's Nick Popovich discusses the development history of Slime Rancher so far and how it was managed during its first year of Early Access.\n\nRegister for GDC: http://ubm.io/2gk5KTU\n\nJoin the GDC mailing list: http://www.gdconf.com/subscribe\n\nFollow GDC on Twitter: https://twitter.com/Official_GDC \n\nGDC talks cover a range of developmental topics including game design, programming, audio, visual arts, business management, production, online games, and much more. We post a fresh GDC video every day.  Subscribe to the channel to stay on top of regular updates, and check out GDC Vault  for thousands of more in-depth talks from our archives."
+            },
+            "defaultAudioLanguage": "en"
+        }
+    }
+]

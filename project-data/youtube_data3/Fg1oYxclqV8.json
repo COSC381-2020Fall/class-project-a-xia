@@ -1,0 +1,50 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "lROJXW4NMmyaD-EfEqmRtuCBtsI",
+        "id": "Fg1oYxclqV8",
+        "snippet": {
+            "publishedAt": "2013-02-04T07:13:37Z",
+            "channelId": "UC4YMjG_j-X2CJcJlj12D2Nw",
+            "title": "Antichamber Yellow Gun walkthrough",
+            "description": "In Antichamber, you can get something for nothing!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Fg1oYxclqV8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Fg1oYxclqV8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Fg1oYxclqV8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Fg1oYxclqV8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Fg1oYxclqV8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Richard Stews",
+            "tags": [
+                "antichamber"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Antichamber Yellow Gun walkthrough",
+                "description": "In Antichamber, you can get something for nothing!"
+            }
+        }
+    }
+]

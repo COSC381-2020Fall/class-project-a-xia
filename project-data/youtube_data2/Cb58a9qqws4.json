@@ -1,0 +1,58 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "_NxZRBxI0fp_uai8pJJft0hgxOs",
+        "id": "Cb58a9qqws4",
+        "snippet": {
+            "publishedAt": "2018-04-04T16:41:19Z",
+            "channelId": "UC2-14fCE2BoenEJPrmRWSPQ",
+            "title": "Slime Rancher - Retail Announcement - Skybound Games",
+            "description": "Slime Rancher is coming to retail on PlayStation 4 and Xbox! Explore the Far, Far Range with the new boxed edition of Slime Rancher on PS4 and Xbox One this September!\n\nAvailable September 2018! \n\nDeveloped by Monomi Park\nwww.slimerancher.com\nwww.monomipark.com\nFollow us on Twitter: @monomipark\n\nRetail release published by Skybound Games\nwww.skyboundgames.com\nFacebook: https://www.facebook.com/SkyboundGames/\nTwitter: @SkyboundGames",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Cb58a9qqws4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Cb58a9qqws4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Cb58a9qqws4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Cb58a9qqws4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Cb58a9qqws4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Skybound Games",
+            "tags": [
+                "Skybound Games",
+                "Skybound",
+                "Monomi Park",
+                "Slime Rancher",
+                "PS4",
+                "Xbox",
+                "Retail"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Slime Rancher - Retail Announcement - Skybound Games",
+                "description": "Slime Rancher is coming to retail on PlayStation 4 and Xbox! Explore the Far, Far Range with the new boxed edition of Slime Rancher on PS4 and Xbox One this September!\n\nAvailable September 2018! \n\nDeveloped by Monomi Park\nwww.slimerancher.com\nwww.monomipark.com\nFollow us on Twitter: @monomipark\n\nRetail release published by Skybound Games\nwww.skyboundgames.com\nFacebook: https://www.facebook.com/SkyboundGames/\nTwitter: @SkyboundGames"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "4LZvQKCMS-B_MtGGAPq_3jbjf4Y",
+        "id": "O7wGRYVrRPQ",
+        "snippet": {
+            "publishedAt": "2018-03-13T17:49:38Z",
+            "channelId": "UCr4CsSQsFzaVTMR2HzPLUhw",
+            "title": "Slime Rancher - Mochi's Megabucks Update Trailer",
+            "description": "Mochi’s Megabucks Update is here! This Slime Rancher update invites you to explore the Nimble Valley: a new zone that is home to the exceedingly rare quicksilver slimes. Not much is known about the Valley outside of the fact that it is owned by the one and only Mochi Miles. Work for Mochi and prove yourself to be a first-rate rancher!\n\nAvailable NOW!\n\nFull patch notes: http://forums.monomipark.com/viewtopic.php?f=10&t=6617\n\nGet Slime Rancher merchandise: http://slimerancher.com/merch\n\nBuy on Steam: http://store.steampowered.com/app/433340/Slime_Rancher\n\nDeveloped by Monomi Park\nwww.slimerancher.com\nwww.monomipark.com\nFollow us on Twitter: @monomipark",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/O7wGRYVrRPQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/O7wGRYVrRPQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/O7wGRYVrRPQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/O7wGRYVrRPQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/O7wGRYVrRPQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Monomi Park",
+            "tags": [
+                "Slime Rancher",
+                "slime",
+                "slimes",
+                "Mochi",
+                "Mochi Miles",
+                "Mochi's Megabucks",
+                "Mochi's Megabucks Update",
+                "Slime Rancher update",
+                "new",
+                "update",
+                "new game",
+                "game trailer",
+                "game trailers",
+                "trailer",
+                "Slime Rancher trailer",
+                "farming",
+                "cute",
+                "fun",
+                "quicksilver",
+                "quicksilver slimes",
+                "new slime",
+                "new slimes",
+                "indie",
+                "indie game"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Slime Rancher - Mochi's Megabucks Update Trailer",
+                "description": "Mochi’s Megabucks Update is here! This Slime Rancher update invites you to explore the Nimble Valley: a new zone that is home to the exceedingly rare quicksilver slimes. Not much is known about the Valley outside of the fact that it is owned by the one and only Mochi Miles. Work for Mochi and prove yourself to be a first-rate rancher!\n\nAvailable NOW!\n\nFull patch notes: http://forums.monomipark.com/viewtopic.php?f=10&t=6617\n\nGet Slime Rancher merchandise: http://slimerancher.com/merch\n\nBuy on Steam: http://store.steampowered.com/app/433340/Slime_Rancher\n\nDeveloped by Monomi Park\nwww.slimerancher.com\nwww.monomipark.com\nFollow us on Twitter: @monomipark"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    }
+]

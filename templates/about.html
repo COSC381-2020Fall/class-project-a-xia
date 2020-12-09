@@ -6,5 +6,25 @@
 
 {% block body %}
     <h1>About</h1>
-    <p>This is an about page.</p>
+    <p>This website is a school project for COSC 381 at Eastern Michigan University made by Athena Xia.</p>
+    <p>The main functions are Search, Feedback, and Settings.</p>
+    <p class="section">
+        <b>Search:</b><br>        
+        Search the descriptions of YouTube videos contained in the index.
+        Select a topic and enter a search term to display results.
+        Each search will be recorded in a database and can be viewed by clicking the link above the search bar.
+        In the Search History page, past queries can be deleted from the database.
+        Users can opt out of having their searches recorded via the Settings page.
+    </p>
+    <p class="section">
+        <b>Feedback:</b><br>
+        Users can leave feedback for the website by entering a subject and message into the appropriate fields.
+        The email field is optional and, if filled in, will send a copy of the user's message to the indicated email address.
+    </p>
+    <p class="section">
+        <b>Settings:</b><br>
+        The two settings are search history and timezone.
+        Search history can be toggled on and off.
+        Timezone can be changed to one of the four most prevalent timezones found in the U.S. and will affect the Date/Time column in Search History.
+    </p>
 {% endblock %}

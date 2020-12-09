@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "fYPfMYvBOWbRYKmWQGxL527vj_A",
+        "id": "eBrVO902Mgc",
+        "snippet": {
+            "publishedAt": "2020-05-26T19:41:05Z",
+            "channelId": "UCr4CsSQsFzaVTMR2HzPLUhw",
+            "title": "Slime Rancher - Deluxe Edition Available Now!",
+            "description": "Explore every corner of the Far, Far Range with the Slime Rancher: Deluxe Edition - a special retail release NOW AVAILABLE on PS4 and Xbox One!\n\nEvery box includes: Full Game, Secret Style Pack DLC, Digital Download for the Original Soundtracks 1 & 2, Coupon for Fangamer Merchandise, and a Slimepedia Booklet.\n\nBuy online or at your local game shop!\nhttps://store.skybound.com/collections/slime-rancher\n\n\nFollow us to stay up to date on news and events:\n\nhttp://www.twitter.com/monomipark\nhttp://www.instagram.com/monomi_park\nhttp://www.blog.monomipark.com\n\nDeveloped by Monomi Park\nhttp://www.slimerancher.com\nhttp://www.monomipark.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/eBrVO902Mgc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/eBrVO902Mgc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/eBrVO902Mgc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/eBrVO902Mgc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/eBrVO902Mgc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Monomi Park",
+            "tags": [
+                "slime rancher",
+                "slime",
+                "slimes",
+                "farming",
+                "cute",
+                "collectible",
+                "collectors",
+                "deluxe",
+                "deluxe edition",
+                "trailer",
+                "indie",
+                "indie game",
+                "xbox",
+                "ps4",
+                "playstation",
+                "console",
+                "tabby",
+                "tabby slime",
+                "announcement",
+                "retail",
+                "skybound",
+                "skybound games"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Slime Rancher - Deluxe Edition Available Now!",
+                "description": "Explore every corner of the Far, Far Range with the Slime Rancher: Deluxe Edition - a special retail release NOW AVAILABLE on PS4 and Xbox One!\n\nEvery box includes: Full Game, Secret Style Pack DLC, Digital Download for the Original Soundtracks 1 & 2, Coupon for Fangamer Merchandise, and a Slimepedia Booklet.\n\nBuy online or at your local game shop!\nhttps://store.skybound.com/collections/slime-rancher\n\n\nFollow us to stay up to date on news and events:\n\nhttp://www.twitter.com/monomipark\nhttp://www.instagram.com/monomi_park\nhttp://www.blog.monomipark.com\n\nDeveloped by Monomi Park\nhttp://www.slimerancher.com\nhttp://www.monomipark.com"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    }
+]

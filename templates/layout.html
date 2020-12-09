@@ -6,13 +6,17 @@
         <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
     </head>
     <body>
-        <ul class="nav">
-            <li><a {% block home %}{% endblock %} href="/">Home</a></li>
-            <li><a {% block about %}{% endblock %} href="about">About</a></li>
-            <li><a {% block search %}{% endblock %} href="query_view">Search</a></li>
-            <li><a {% block feedback %}{% endblock %} href="feedback">Feedback</a></li>
-        </ul>
+        <div class="nav">
+            <ul>
+                <li><a {% block home %}{% endblock %} href="/">Home</a></li>
+                <li><a {% block about %}{% endblock %} href="about">About</a></li>
+                <li><a {% block search %}{% endblock %} href="query_view">Search</a></li>
+                <li><a {% block feedback %}{% endblock %} href="feedback">Feedback</a></li>
+                <li><a {% block settings %}{% endblock %} href="settings">Settings</a></li>
+            </ul>
+        </div>
         <div class="body">
+            <!-- <h1 style="color: red">SITE UNDER MAINTENANCE: query_view pagination may not work</h1> -->
             {% block body%}{% endblock %}
         </div>
     </body>

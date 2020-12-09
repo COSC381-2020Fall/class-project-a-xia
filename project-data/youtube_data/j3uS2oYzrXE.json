@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Rf83rYI4YDtOxYM_orjoqxBGP_g",
+        "id": "j3uS2oYzrXE",
+        "snippet": {
+            "publishedAt": "2020-09-12T19:00:05Z",
+            "channelId": "UCAW-NpUFkMyCNrvRSSGIvDQ",
+            "title": "THIS GAME GOT TOO HEATED! - AMONG US",
+            "description": "SUBSCRIBE HERE to never miss a video! http://bit.ly/SubscribeNinja\nJoin my Notification Squad by clicking the Bell\n\nCheck out my official #TeamNinja Brand Merch: https://teamninja.com/YT\n\nYou will see highlights, funny moments, impressions, and how to play info that might not make the YouTube channel.\n\n#Ninja #AmongUs\n\nTHANKS FOR WATCHING!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/j3uS2oYzrXE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/j3uS2oYzrXE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/j3uS2oYzrXE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/j3uS2oYzrXE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/j3uS2oYzrXE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Ninja",
+            "tags": [
+                "ninja",
+                "ninga",
+                "ninjashyper",
+                "ninja highlights",
+                "ninja clips",
+                "ninja rage",
+                "ninja fortnite",
+                "ninja reacts",
+                "t f u say to me",
+                "fortnite battle royale",
+                "fortnite highlights",
+                "fortnite trolling",
+                "twitchtv",
+                "fortnite fails",
+                "twitch highlights",
+                "stream highlights",
+                "twitch moments",
+                "twitch clips",
+                "bcc trolling",
+                "funny moments",
+                "trending",
+                "among us",
+                "amongus"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "THIS GAME GOT TOO HEATED! - AMONG US",
+                "description": "SUBSCRIBE HERE to never miss a video! http://bit.ly/SubscribeNinja\nJoin my Notification Squad by clicking the Bell\n\nCheck out my official #TeamNinja Brand Merch: https://teamninja.com/YT\n\nYou will see highlights, funny moments, impressions, and how to play info that might not make the YouTube channel.\n\n#Ninja #AmongUs\n\nTHANKS FOR WATCHING!"
+            }
+        }
+    }
+]

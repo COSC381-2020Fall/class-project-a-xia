@@ -1,6 +1,6 @@
 {% extends "layout.html" %}
 
-{% block title %}Hello, world!{% endblock %}
+{% block title %}Home{% endblock %}
 
 {% block home %}class="active"{% endblock %}
 
@@ -8,12 +8,15 @@
     <h1>Home</h1>
     <div>
         {% if name %}
-            Hello, {{ name }}!
+            <p>Hello, {{ name }}!</p>
+            <form action="/" method="POST">
+                <button type="submit" name="change" value="change">Change name</button>
+            </form>
         {% else %}
             Your name: 
-            <form method="GET" style="display: inline">
-                <input type="text" name="name" style="display: inline">
-                <input type="submit" value="Enter">
+            <form action="/" method="POST" style="display: inline">
+                <input type="text" name="name" style="display: inline" required>
+                <button type="submit">Enter</button>
             </form>
         {% endif %}
         </div>

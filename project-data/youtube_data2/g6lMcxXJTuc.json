@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "qIkj2fvEUCWgbKOCfz3_5W9EiT0",
+        "id": "g6lMcxXJTuc",
+        "snippet": {
+            "publishedAt": "2018-08-08T15:31:02Z",
+            "channelId": "UCr4CsSQsFzaVTMR2HzPLUhw",
+            "title": "Slime Rancher - Xbox One Exclusive DLC Trailer",
+            "description": "Xbox One EXCLUSIVE Downloadable Content is coming to Slime Rancher... for free!\n\nUse the new DLC Playset to dress up your slimes as sea-faring pirates hunting for treasure! Install the XB1-exclusive Emerald Chroma Pack to give your ranch house, vacpack, and ranch tech a shiny, new paint job!\n\nComing soon to Xbox One!\n\nThe physical retail edition for Xbox One and PS4 will be in stores this September. Sign up for our newsletter for more information on when it will release! http://eepurl.com/dnL0cT\n\nDeveloped by Monomi Park\nhttp://www.slimerancher.com\nhttp://www.monomipark.com\n\nFollow us to stay up to date on news and events!\n\nhttp://www.twitter.com/monomipark\nhttp://www.instagram.com/monomi_park\nhttp://www.blog.monomipark.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/g6lMcxXJTuc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/g6lMcxXJTuc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/g6lMcxXJTuc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/g6lMcxXJTuc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/g6lMcxXJTuc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Monomi Park",
+            "tags": [
+                "Slime Rancher",
+                "slime",
+                "slimes",
+                "Xbox One",
+                "XB1",
+                "Xbox",
+                "preorder",
+                "dlc",
+                "announcement",
+                "new",
+                "new slime",
+                "play",
+                "toy",
+                "fun",
+                "trailer",
+                "farm",
+                "farming",
+                "simulation",
+                "simulator",
+                "Monomi Park"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Slime Rancher - Xbox One Exclusive DLC Trailer",
+                "description": "Xbox One EXCLUSIVE Downloadable Content is coming to Slime Rancher... for free!\n\nUse the new DLC Playset to dress up your slimes as sea-faring pirates hunting for treasure! Install the XB1-exclusive Emerald Chroma Pack to give your ranch house, vacpack, and ranch tech a shiny, new paint job!\n\nComing soon to Xbox One!\n\nThe physical retail edition for Xbox One and PS4 will be in stores this September. Sign up for our newsletter for more information on when it will release! http://eepurl.com/dnL0cT\n\nDeveloped by Monomi Park\nhttp://www.slimerancher.com\nhttp://www.monomipark.com\n\nFollow us to stay up to date on news and events!\n\nhttp://www.twitter.com/monomipark\nhttp://www.instagram.com/monomi_park\nhttp://www.blog.monomipark.com"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    }
+]

@@ -1,0 +1,28 @@
+{% extends "layout.html" %}
+
+{% block title %}History{% endblock %}
+
+{% block body %}
+    <h1>Search History</h1>
+    <p><a href="query_view">Back to search</a></p>
+    {% if deleted %}
+    <p class="submittedalert" style="width: 12em">Entry has been deleted.</p>
+    {% endif %}
+    <table class="historytable">
+        <tr class="tableheader">
+            <th>Term</th>
+            <th>Topic</th>
+            <th>Date/Time</th>
+        </tr>
+        {% for history_item in history %}
+        <tr>
+            <td width="30%">{{ history_item[1] }}</td>
+            <td width="30%">{{ history_item[3] }}</td>
+            <td width="25%">{{ history_item[2] }}</td>
+            <form action="history" method="POST">
+                <td width="5%"><button type="submit" name="id" value="{{ history_item[0] }}">Delete</button></td>
+            </form>
+        </tr>
+        {% endfor %}
+    </table>
+{% endblock %}

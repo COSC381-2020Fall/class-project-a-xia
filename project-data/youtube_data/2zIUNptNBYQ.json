@@ -1,0 +1,47 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "7HHJopc5WJXPNyguCa2LhHIQobI",
+        "id": "2zIUNptNBYQ",
+        "snippet": {
+            "publishedAt": "2020-09-19T04:23:36Z",
+            "channelId": "UCW0uwJNcMTiOFXXgyS2no4g",
+            "title": "RDC PLAYS AMONG US (ft. CalebCity, ImDontai, KingVader)",
+            "description": "Yall been asking for it, so yall know we had to give it a try. Ay and we not even finna cap, this game is funny af. Theres some top tier jokes in the video lmao. Yall comment who yall want us to play with next and we'll try our best to make it happen!\n\nSOCIAL MEDIA:\n@supremedreams_1\n@23_is_leland\n@dylanpatel4_\n@l0veandpeac3\n@ive_ben_jamin\n@cleanuniform\n@playthatjohn\n\nTWITCH:\nhttps://www.twitch.tv/rdcgaming\n\nRDCWorld Official Website:\nhttps://rdcworld1.com/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2zIUNptNBYQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2zIUNptNBYQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2zIUNptNBYQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2zIUNptNBYQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/2zIUNptNBYQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "RDCWorldGaming",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "RDC PLAYS AMONG US (ft. CalebCity, ImDontai, KingVader)",
+                "description": "Yall been asking for it, so yall know we had to give it a try. Ay and we not even finna cap, this game is funny af. Theres some top tier jokes in the video lmao. Yall comment who yall want us to play with next and we'll try our best to make it happen!\n\nSOCIAL MEDIA:\n@supremedreams_1\n@23_is_leland\n@dylanpatel4_\n@l0veandpeac3\n@ive_ben_jamin\n@cleanuniform\n@playthatjohn\n\nTWITCH:\nhttps://www.twitch.tv/rdcgaming\n\nRDCWorld Official Website:\nhttps://rdcworld1.com/"
+            }
+        }
+    }
+]

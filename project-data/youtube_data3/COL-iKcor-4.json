@@ -1,0 +1,47 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "W30Bs-yfb4iba3J29L_Uyl_qGlU",
+        "id": "COL-iKcor-4",
+        "snippet": {
+            "publishedAt": "2018-06-26T17:16:23Z",
+            "channelId": "UCYFnrEm7NpDx553KEHyK4iQ",
+            "title": "[Full stream] - Antichamber \"\"\"\"Speedrun\"\"\"\"",
+            "description": "Watch the stream here: https://www.twitch.tv/thegrayfruit/\nI don't have a stream schedule, but I announce every stream via this Twitter account: https://twitter.com/grayfruitlive\nIf any of this info is outdated, check the description of my most recently posted videos.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/COL-iKcor-4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/COL-iKcor-4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/COL-iKcor-4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/COL-iKcor-4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/COL-iKcor-4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "fruit salad",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "[Full stream] - Antichamber \"\"\"\"Speedrun\"\"\"\"",
+                "description": "Watch the stream here: https://www.twitch.tv/thegrayfruit/\nI don't have a stream schedule, but I announce every stream via this Twitter account: https://twitter.com/grayfruitlive\nIf any of this info is outdated, check the description of my most recently posted videos."
+            }
+        }
+    }
+]

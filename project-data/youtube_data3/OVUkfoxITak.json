@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "qMtcUMGPuO03DMVZME1eqCZMyWw",
+        "id": "OVUkfoxITak",
+        "snippet": {
+            "publishedAt": "2014-11-26T20:21:18Z",
+            "channelId": "UC54K9OomfBB3T3lbnVVt5Kw",
+            "title": "Antichamber OST - Antichamber Suite II",
+            "description": "Music from the game Antichamber,\ncomposed by Siddhartha Barnhoorn.\n\nBuy the soundtrack here:\nhttps://siddharthabarnhoorn.bandcamp.com/album/antichamber\n\nArtwork by David Hellman.\n\n\"This soundtrack is a compilation of music from the game. Inside the game itself the music is made up of layers which crossfade into each other, creating an evolving piece of ambient music which never has the same elements / layers on top of each other. Evolving in texture the further you venture into the world of Antichamber...\"\n\nYou can find the full album release here:\nhttps://siddharthabarnhoorn.bandcamp.com/album/antichamber\n\nhttp://www.sidbarnhoorn.com\n\nwww.antichamber-game.com\n\nAntichamber is available on Steam, here:\nstore.steampowered.com/app/219890\n\nAlso on Facebook, here:\nwww.facebook.com/Antichamber",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/OVUkfoxITak/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/OVUkfoxITak/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/OVUkfoxITak/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/OVUkfoxITak/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/OVUkfoxITak/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Siddhartha Barnhoorn",
+            "tags": [
+                "antichamber",
+                "soundtrack",
+                "ambient",
+                "antichamber game",
+                "barnhoorn",
+                "siddhartha",
+                "sid",
+                "guitar",
+                "shakuhachi",
+                "koto",
+                "game",
+                "atmosphere",
+                "Antichamber Suite II",
+                "Electronic",
+                "Original",
+                "Sound",
+                "alexander bruce",
+                "robin arnott"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Antichamber OST - Antichamber Suite II",
+                "description": "Music from the game Antichamber,\ncomposed by Siddhartha Barnhoorn.\n\nBuy the soundtrack here:\nhttps://siddharthabarnhoorn.bandcamp.com/album/antichamber\n\nArtwork by David Hellman.\n\n\"This soundtrack is a compilation of music from the game. Inside the game itself the music is made up of layers which crossfade into each other, creating an evolving piece of ambient music which never has the same elements / layers on top of each other. Evolving in texture the further you venture into the world of Antichamber...\"\n\nYou can find the full album release here:\nhttps://siddharthabarnhoorn.bandcamp.com/album/antichamber\n\nhttp://www.sidbarnhoorn.com\n\nwww.antichamber-game.com\n\nAntichamber is available on Steam, here:\nstore.steampowered.com/app/219890\n\nAlso on Facebook, here:\nwww.facebook.com/Antichamber"
+            }
+        }
+    }
+]

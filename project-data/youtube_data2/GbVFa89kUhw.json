@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "R6YYM7d-yjQZfDZcU9IWBTlH4yo",
+        "id": "GbVFa89kUhw",
+        "snippet": {
+            "publishedAt": "2017-05-23T16:24:45Z",
+            "channelId": "UC0JB7TSe49lg56u6qH8y_MQ",
+            "title": "A Thousand Tiny Tales: Emergent Storytelling in Slime Rancher",
+            "description": "In this 2017 GDC session, Slime Rancher designer Nick Popovich explains how the slime's vibrant, unpredictable behavior is the game's \"secret sauce\", and how that behavior is crafted from surprisingly simple systems.\n\nGDC talks cover a range of developmental topics including game design, programming, audio, visual arts, business management, production, online games, and much more. We post a fresh GDC video every weekday.  Subscribe to the channel to stay on top of regular updates, and check out GDC Vault  for thousands of more in-depth talks from our archives.\n\nFollow us on Twitter\nhttps://twitter.com/Official_GDC\n\nCheck out our Facebook page for GDC exclusives\nhttps://www.facebook.com/GameDevelopersConference\n\nVisit our site: http://ubm.io/2ctNvqZ",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GbVFa89kUhw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GbVFa89kUhw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GbVFa89kUhw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/GbVFa89kUhw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/GbVFa89kUhw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "GDC",
+            "tags": [
+                "gdc",
+                "talk",
+                "panel",
+                "game",
+                "games",
+                "gaming",
+                "development",
+                "hd",
+                "design",
+                "slime",
+                "slime rancher",
+                "emergent storytelling",
+                "steam",
+                "early access",
+                "pc gaming",
+                "game design"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "A Thousand Tiny Tales: Emergent Storytelling in Slime Rancher",
+                "description": "In this 2017 GDC session, Slime Rancher designer Nick Popovich explains how the slime's vibrant, unpredictable behavior is the game's \"secret sauce\", and how that behavior is crafted from surprisingly simple systems.\n\nGDC talks cover a range of developmental topics including game design, programming, audio, visual arts, business management, production, online games, and much more. We post a fresh GDC video every weekday.  Subscribe to the channel to stay on top of regular updates, and check out GDC Vault  for thousands of more in-depth talks from our archives.\n\nFollow us on Twitter\nhttps://twitter.com/Official_GDC\n\nCheck out our Facebook page for GDC exclusives\nhttps://www.facebook.com/GameDevelopersConference\n\nVisit our site: http://ubm.io/2ctNvqZ"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    }
+]

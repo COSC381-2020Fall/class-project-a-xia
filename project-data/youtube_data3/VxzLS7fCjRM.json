@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "vo0jW2dj6YUkFRtzP26GU22K8MQ",
+        "id": "VxzLS7fCjRM",
+        "snippet": {
+            "publishedAt": "2013-02-25T06:14:06Z",
+            "channelId": "UCj_Pz3qMoYL5lPaSBR-5igw",
+            "title": "Antichamber - 100% ~55 minutes speedrun",
+            "description": "This is a really old video from when the game was new. The current world record for the 100% category is under 20 minutes: https://www.speedrun.com/Antichamber#100\n\nI didn't get all the purple cubes. This is only my fifth time playing the game and my third attempt at a speedrun. This is definitely not the best and there are a lot of mistakes, but I'm very happy that I was able to get below 1 hour. The video is unedited; FRAPS recorded to an AVI at 40fps and then I used VLC to convert it to MP4 for compression, then I uploaded it straight to YouTube. This is not 'official' by any means. I did make use of glitches in this version of the game.\n\nThis video is also on Twitch: https://www.twitch.tv/lb___/v/96401564",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VxzLS7fCjRM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VxzLS7fCjRM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VxzLS7fCjRM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/VxzLS7fCjRM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/VxzLS7fCjRM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "LB",
+            "tags": [
+                "lb725c",
+                "100 percent",
+                "Antichamber",
+                "100%",
+                "99 percent",
+                "100",
+                "99%",
+                "any",
+                "speedrun",
+                "percent",
+                "any percent",
+                "any%",
+                "99",
+                "LB725C"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Antichamber - 100% ~55 minutes speedrun",
+                "description": "This is a really old video from when the game was new. The current world record for the 100% category is under 20 minutes: https://www.speedrun.com/Antichamber#100\n\nI didn't get all the purple cubes. This is only my fifth time playing the game and my third attempt at a speedrun. This is definitely not the best and there are a lot of mistakes, but I'm very happy that I was able to get below 1 hour. The video is unedited; FRAPS recorded to an AVI at 40fps and then I used VLC to convert it to MP4 for compression, then I uploaded it straight to YouTube. This is not 'official' by any means. I did make use of glitches in this version of the game.\n\nThis video is also on Twitch: https://www.twitch.tv/lb___/v/96401564"
+            },
+            "defaultAudioLanguage": "en-US"
+        }
+    }
+]

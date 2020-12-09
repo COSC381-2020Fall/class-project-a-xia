@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "CPNYcKXAfM8qIm_8qgKT7sXUewE",
+        "id": "rXPVX0J4HHo",
+        "snippet": {
+            "publishedAt": "2018-08-21T19:51:18Z",
+            "channelId": "UCr4CsSQsFzaVTMR2HzPLUhw",
+            "title": "Slime Rancher - Official PlayStation 4 Launch Trailer",
+            "description": "Slime Rancher is now available on PlayStation 4!\n\nBuy here: http://bit.ly/SR-PS4\n\nPS4 exclusive DLC is coming soon to Slime Rancher. Use the new DLC Playset to dress up your slimes as heroic adventurers and watch them fight off a hoard of toy bop goblins. Install the PS4-exclusive Sapphire Chroma Pack to give your ranch house, vacpack, and ranch tech a shiny, new paint job!\n\nThe physical retail edition for Xbox One and PS4 will be in stores this September. Sign up for our newsletter for more information on when it will release! http://eepurl.com/dnL0cT\n\nFollow us to stay up to date on news and events!\n\nhttp://www.twitter.com/monomipark\nhttp://www.instagram.com/monomi_park\nhttp://www.blog.monomipark.com\n\n\nDeveloped by Monomi Park\nhttp://www.slimerancher.com\nhttp://www.monomipark.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rXPVX0J4HHo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rXPVX0J4HHo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rXPVX0J4HHo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/rXPVX0J4HHo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/rXPVX0J4HHo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Monomi Park",
+            "tags": [
+                "Slime Rancher",
+                "PlayStation 4",
+                "PlayStation",
+                "PS4",
+                "Sony",
+                "indie game",
+                "slime",
+                "slimes",
+                "fun",
+                "simulation",
+                "announcement",
+                "trailer",
+                "digital",
+                "launch",
+                "pink slime",
+                "farm",
+                "game",
+                "games",
+                "farming",
+                "beatrix"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Slime Rancher - Official PlayStation 4 Launch Trailer",
+                "description": "Slime Rancher is now available on PlayStation 4!\n\nBuy here: http://bit.ly/SR-PS4\n\nPS4 exclusive DLC is coming soon to Slime Rancher. Use the new DLC Playset to dress up your slimes as heroic adventurers and watch them fight off a hoard of toy bop goblins. Install the PS4-exclusive Sapphire Chroma Pack to give your ranch house, vacpack, and ranch tech a shiny, new paint job!\n\nThe physical retail edition for Xbox One and PS4 will be in stores this September. Sign up for our newsletter for more information on when it will release! http://eepurl.com/dnL0cT\n\nFollow us to stay up to date on news and events!\n\nhttp://www.twitter.com/monomipark\nhttp://www.instagram.com/monomi_park\nhttp://www.blog.monomipark.com\n\n\nDeveloped by Monomi Park\nhttp://www.slimerancher.com\nhttp://www.monomipark.com"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    }
+]

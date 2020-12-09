@@ -1,0 +1,64 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "mtbGgHOwxZzT4P5nHuQttGA_QH8",
+        "id": "gQWb1JgxVws",
+        "snippet": {
+            "publishedAt": "2018-07-17T18:32:20Z",
+            "channelId": "UCr4CsSQsFzaVTMR2HzPLUhw",
+            "title": "Slime Rancher - The Automatic Update Trailer",
+            "description": "The Automatic Update is here!\n\nDrones are happy little helper bots that can be programmed to help with various tasks around the ranch. There are many different types of tasks you can program a drone to do, so it will be up to you to figure out how they can help!\n\nAvailable NOW!\n\nFull patch notes: http://forums.monomipark.com/viewtopic.php?f=10&t=8852\n\nBuy on Steam: http://store.steampowered.com/app/433340/Slime_Rancher\n\nDeveloped by Monomi Park\nhttp://www.slimerancher.com\nhttp://www.monomipark.com\n\nFollow us to stay up to date on news and events!\n\nhttp://www.twitter.com/monomipark\nhttp://www.instagram.com/monomi_park\nhttp://www.blog.monomipark.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/gQWb1JgxVws/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/gQWb1JgxVws/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/gQWb1JgxVws/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/gQWb1JgxVws/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/gQWb1JgxVws/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Monomi Park",
+            "tags": [
+                "Slime Rancher",
+                "slime",
+                "slimes",
+                "farming",
+                "cute",
+                "drone",
+                "drones",
+                "trailer",
+                "update",
+                "indie",
+                "indie game",
+                "simulation",
+                "program",
+                "robot"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Slime Rancher - The Automatic Update Trailer",
+                "description": "The Automatic Update is here!\n\nDrones are happy little helper bots that can be programmed to help with various tasks around the ranch. There are many different types of tasks you can program a drone to do, so it will be up to you to figure out how they can help!\n\nAvailable NOW!\n\nFull patch notes: http://forums.monomipark.com/viewtopic.php?f=10&t=8852\n\nBuy on Steam: http://store.steampowered.com/app/433340/Slime_Rancher\n\nDeveloped by Monomi Park\nhttp://www.slimerancher.com\nhttp://www.monomipark.com\n\nFollow us to stay up to date on news and events!\n\nhttp://www.twitter.com/monomipark\nhttp://www.instagram.com/monomi_park\nhttp://www.blog.monomipark.com"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    }
+]

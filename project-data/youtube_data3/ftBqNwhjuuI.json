@@ -1,0 +1,47 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "K_8sDHvvLsS0CzJMbQTLxKej5Xs",
+        "id": "ftBqNwhjuuI",
+        "snippet": {
+            "publishedAt": "2014-09-26T05:03:58Z",
+            "channelId": "UCyhHXqdsv0_160CF6ZdIa-A",
+            "title": "Breaking The Arc",
+            "description": "Originally made for the Antichamber Wiki: http://antichamber.wikia.com\n\nAntichamber subreddit: http://www.reddit.com/r/antichamber\nVisit My Livestream: http://twitch.tv/Californ1a",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ftBqNwhjuuI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ftBqNwhjuuI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ftBqNwhjuuI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ftBqNwhjuuI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ftBqNwhjuuI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Californ1a",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Breaking The Arc",
+                "description": "Originally made for the Antichamber Wiki: http://antichamber.wikia.com\n\nAntichamber subreddit: http://www.reddit.com/r/antichamber\nVisit My Livestream: http://twitch.tv/Californ1a"
+            }
+        }
+    }
+]

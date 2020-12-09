@@ -1,0 +1,62 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "B_EZn6YLHa3XRHDgYevRcYBei5w",
+        "id": "g5_d1tJikIM",
+        "snippet": {
+            "publishedAt": "2016-08-19T20:30:00Z",
+            "channelId": "UCjBp_7RuDBUYbd1LegWEJ8g",
+            "title": "Slime Rancher  - Now on Xbox One",
+            "description": "Slime Rancher is the tale of Beatrix LeBeau, a plucky, young rancher who sets out for a life a thousand light years away from Earth on the 'Far, Far Range' where she tries her hand at making a living wrangling slimes. With a can-do attitude, plenty of grit, and her trusty vacpack, Beatrix attempts to stake a claim, amass a fortune, and avoid the continual peril that looms from the rolling, jiggling avalanche of slimes around every corner!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/g5_d1tJikIM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/g5_d1tJikIM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/g5_d1tJikIM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/g5_d1tJikIM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/g5_d1tJikIM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Xbox",
+            "tags": [
+                "Xbox",
+                "Xbox360",
+                "xbox 360",
+                "Xbox One",
+                "ID@Xbox",
+                "slimerancher",
+                "slime rancher",
+                "monomi park",
+                "shooter",
+                "farming",
+                "survival",
+                "adventure"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Slime Rancher  - Now on Xbox One",
+                "description": "Slime Rancher is the tale of Beatrix LeBeau, a plucky, young rancher who sets out for a life a thousand light years away from Earth on the 'Far, Far Range' where she tries her hand at making a living wrangling slimes. With a can-do attitude, plenty of grit, and her trusty vacpack, Beatrix attempts to stake a claim, amass a fortune, and avoid the continual peril that looms from the rolling, jiggling avalanche of slimes around every corner!"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    }
+]

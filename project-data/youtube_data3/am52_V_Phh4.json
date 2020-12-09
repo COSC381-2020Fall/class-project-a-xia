@@ -1,0 +1,59 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "H76fGmyQi9dH3LBsCt-J6fXBBrw",
+        "id": "am52_V_Phh4",
+        "snippet": {
+            "publishedAt": "2013-02-04T03:23:14Z",
+            "channelId": "UCL0gsZemYskoha9lfFwQGig",
+            "title": "AntiChamber - SPOILERS: Blue, Green, Yellow & Red Guns - Quick Routes to Each",
+            "description": "Playlist: http://goo.gl/vVD8O\nSo, AntiChamber. Thanks to Joshbaggy for letting me know about this one. Click 'read more' for quick links. This isn't a speed run, just a quick and dirty guide.\nSpent a hungover Sunday hanging out with Nika and playing. We made very slow, erratic progress, so the playthrough didn't really make sense, but I'll do some guide videos over the next couple of days. In the meantime, if you're trying to replay the game, and want to grab the guns quickly, this is the easiest way I found to do it.\n\nBlue Gun: 0:00\nGreen Gun: 0:30\nYellow Gun: 1:20\nRed Gun: 4:20",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/am52_V_Phh4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/am52_V_Phh4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/am52_V_Phh4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/am52_V_Phh4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/am52_V_Phh4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "SporksAreGoodForYou",
+            "tags": [
+                "antichamber",
+                "gun",
+                "blue gun",
+                "green gun",
+                "yellow gun",
+                "red gun",
+                "antichamber blue gun",
+                "antichamber green gun",
+                "antichamber yellow gun",
+                "antichamber red gun"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AntiChamber - SPOILERS: Blue, Green, Yellow & Red Guns - Quick Routes to Each",
+                "description": "Playlist: http://goo.gl/vVD8O\nSo, AntiChamber. Thanks to Joshbaggy for letting me know about this one. Click 'read more' for quick links. This isn't a speed run, just a quick and dirty guide.\nSpent a hungover Sunday hanging out with Nika and playing. We made very slow, erratic progress, so the playthrough didn't really make sense, but I'll do some guide videos over the next couple of days. In the meantime, if you're trying to replay the game, and want to grab the guns quickly, this is the easiest way I found to do it.\n\nBlue Gun: 0:00\nGreen Gun: 0:30\nYellow Gun: 1:20\nRed Gun: 4:20"
+            }
+        }
+    }
+]

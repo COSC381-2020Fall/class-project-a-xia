@@ -1,0 +1,36 @@
+{% extends "layout.html" %}
+
+{% block title %}Settings{% endblock %}
+
+{% block settings %}class="active"{% endblock %}
+
+{% block body %}
+    <h1>Settings</h1>
+    {% if submitted %}
+    <p class="submittedalert" style="width: 14em">Your settings have been saved.</p>
+    {% endif %}
+    <form action="settings" method="POST">
+        <table class="settingstable">
+            <tr>
+                <td><label for="search_history">Search history:</label></td>
+                <td><input type="checkbox"
+                           name="search_history"
+                           id="search_history"
+                           {% if history_enabled %}checked{% endif %}> enabled</td>
+            </tr>
+            <tr>
+                <td><label for="timezone">Timezone:</label></td>
+                <td>
+                    <select name="timezone" id="timezone">
+                        <option value="-5" {% if timezone == '-5' %}selected{% endif %}>EST (UTC-05:00)</option>
+                        <option value="-6" {% if timezone == '-6' %}selected{% endif %}>CST (UTC-06:00)</option>
+                        <option value="-7" {% if timezone == '-7' %}selected{% endif %}>MST (UTC-07:00)</option>
+                        <option value="-8" {% if timezone == '-8' %}selected{% endif %}>PST (UTC-08:00)</option>
+                    </select>
+                </td>
+            </tr>
+        </table>
+        <br>
+        <button type="submit">Save</button>
+    </form>
+{% endblock %}
