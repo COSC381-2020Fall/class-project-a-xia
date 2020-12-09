@@ -1,8 +1,14 @@
 body {
-	background-color:#E2F2FF;
+	background-color:#e2f2ff;
 	color:#072237;
 	font-family:serif;
 	margin:0;
+}
+a {
+	text-decoration: none;
+}
+label {
+	font-weight: bold;
 }
 div.nav {
 	overflow: auto;
@@ -26,13 +32,41 @@ div.nav li a {
 	text-decoration:none;
 }
 div.nav li a:hover:not(.active) {
-	background-color:#010D18;
+	background-color:#00070e;
 }
 .active {
 	background-color:#005499;
 }
 div.body {
-	padding:0px 10px 10px;
+	margin: 0px 10px 10px;
+	padding: 0px 10px 10px;
+}
+p.section {
+	margin-left: 10px;
+	margin-right: 35%;
+}
+ul.searchlinks {
+	list-style-type: none;
+	padding-left: 10px;
+}
+p.submittedalert {
+	padding: 1px 0;
+	border: 1px solid #010D18;
+	text-align: center;
+}
+table.historytable {
+	width: 50%;
+	border-collapse: collapse;
+}
+table.historytable th {
+	text-align: left;
+	padding: 2px 2px 5px;
+}
+table.historytable td {
+	padding: 2px;
+}
+table.historytable tr:hover:not(.tableheader) {
+	background-color: #b4cbdf;
 }
 table.formtable {
 	border-spacing: 8px;

@@ -6,8 +6,16 @@
 
 {% block body %}
     <h1>Search</h1>
+    <p><a href="history">Search history</a></p>
+    <br>
     <form action="query_view" method="GET">
         <input type="text" name="q" placeholder="Ex: imposter, play, friends">
+        <select name="topic" required>
+            <option hidden disabled selected value>Select a topic</option>
+            {% for topic in topic_list%}
+            <option value="{{ topic }}">{{ topic }}</option>
+            {% endfor %}
+        </select>
         <input type="submit" value="Search">
     </form>
     {% for item in results %}
@@ -15,18 +23,11 @@
         <p>{{ item.description }}</p>
         <br>
     {% endfor %}
-
     {% if results %}
         <p>Page
             {% for index in range(1, page_count + 1) %}
-                <a href="query_view?q={{ query_term }}&p={{ index }}">{{ index }}</a>
+                <a href="query_view?q={{ query_term }}&topic={{ topic }}&p={{ index }}">{{ index }}</a>
             {% endfor %}
         </p>
     {% endif %}
-
-    <ul>
-        {% for history_item in history %}
-            <li>{{ history_item[1] }}</li>
-        {% endfor %}
-    </ul>
 {% endblock %}

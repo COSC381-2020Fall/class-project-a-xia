@@ -1,13 +1,13 @@
 #! /usr/bin/bash
 
-if [ ! -e youtube_data ]; then
-	mkdir youtube_data
+if [ ! -e youtube_data3 ]; then
+	mkdir youtube_data3
 fi
 
-cd youtube_data
+cd youtube_data3
 
 while read line
 do
 	python3 ../download_youtube_data.py $line
-done < ../video_ids.txt
+done < ../video_ids3.txt
 

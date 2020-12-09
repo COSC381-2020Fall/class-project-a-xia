@@ -3,16 +3,18 @@ import json
 
 from whoosh.qparser import QueryParser
 from whoosh import scoring
+from whoosh.query import Term
 from whoosh.index import open_dir
 from whoosh.lang.porter import stem
 
-ix = open_dir("indexdir")
+ix = open_dir("indexdirectory")
 
-def query(query_str, items_per_page=10, current_page=1):
+def query(query_str, topic, items_per_page=10, current_page=1):
     query_str = stem(query_str)
     with ix.searcher(weighting=scoring.Frequency) as searcher:
-        query = QueryParser("description", ix.schema).parse(query_str)
-        results = searcher.search(query, limit=None)
+        qp = QueryParser("description", ix.schema).parse(query_str)
+        allow_topic = Term("topic", topic)
+        results = searcher.search(qp, filter=allow_topic, limit=None)
         num_query_results = len(results)
         query_results = []
         start_index = (current_page -1) * items_per_page
@@ -23,6 +25,7 @@ def query(query_str, items_per_page=10, current_page=1):
             d['url'] = "https://www.youtube.com/watch?v=%s" % results[i]['id']
             d['title'] = results[i]['title']
             d['description'] = results[i]['description']
+            d['topic'] = results[i]['topic']
             d['score'] = results[i].score
             query_results.append(d)
     
@@ -32,5 +35,6 @@ if __name__ == "__main__":
     query_str = sys.argv[1]
     items_per_page = int(sys.argv[2])
     current_page = int(sys.argv[3])
-    query_results, num_query_results = query(query_str, items_per_page=items_per_page, current_page=current_page)
+    topic = sys.argv[4]
+    query_results, num_query_results = query(query_str, topic, items_per_page=items_per_page, current_page=current_page)
     print(json.dumps(query_results))
