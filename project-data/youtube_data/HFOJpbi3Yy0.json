@@ -1,0 +1,47 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "iBk3sYwThEWGfj0SiaTYsuQcPTA",
+        "id": "HFOJpbi3Yy0",
+        "snippet": {
+            "publishedAt": "2020-09-27T09:24:39Z",
+            "channelId": "UCQ7ZcQSfCiY0EJL8ZdbZ3Hw",
+            "title": "Among Us LIVE with Friends! (funny)",
+            "description": "Among Us LIVE with Friends! Be sure to subscribe and hit the bell so you don't miss a stream! \n\nSUBSCRIBE FOR MORE VIDEOS! ► http://bit.ly/SamaraRedway\n\nWatch my other videos:\nI GOT STREAM SNIPED! ► https://www.youtube.com/watch?v=8N3n1AIKi_c\nI lost everything.. ► https://www.youtube.com/watch?v=qaBQMCfz3Hw\n\nMy Second Channel: https://www.youtube.com/samararedway\n\nSocial Media\nFollow me on Instagram ► http://instagram.com/samararedway\nFollow me on Twitter ► http://twitter.com/samararedway",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/HFOJpbi3Yy0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/HFOJpbi3Yy0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/HFOJpbi3Yy0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/HFOJpbi3Yy0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/HFOJpbi3Yy0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Samara Games",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Among Us LIVE with Friends! (funny)",
+                "description": "Among Us LIVE with Friends! Be sure to subscribe and hit the bell so you don't miss a stream! \n\nSUBSCRIBE FOR MORE VIDEOS! ► http://bit.ly/SamaraRedway\n\nWatch my other videos:\nI GOT STREAM SNIPED! ► https://www.youtube.com/watch?v=8N3n1AIKi_c\nI lost everything.. ► https://www.youtube.com/watch?v=qaBQMCfz3Hw\n\nMy Second Channel: https://www.youtube.com/samararedway\n\nSocial Media\nFollow me on Instagram ► http://instagram.com/samararedway\nFollow me on Twitter ► http://twitter.com/samararedway"
+            }
+        }
+    }
+]

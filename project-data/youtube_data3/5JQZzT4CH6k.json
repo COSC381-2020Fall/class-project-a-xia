@@ -1,0 +1,57 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ytMxkXQ9Y0AxHsZGcvOj_6o9h6U",
+        "id": "5JQZzT4CH6k",
+        "snippet": {
+            "publishedAt": "2014-01-15T18:50:22Z",
+            "channelId": "UCwyi4mA4zCuXDhVwLxwtylA",
+            "title": "Antichamber | Review / Test / GaCleRe",
+            "description": "Ein sehr eigenes Puzzlespiel!\nFalls sich wer fragt was QUBE ist www.qube-game.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5JQZzT4CH6k/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5JQZzT4CH6k/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5JQZzT4CH6k/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/5JQZzT4CH6k/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/5JQZzT4CH6k/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "GamingClerks",
+            "tags": [
+                "review",
+                "german",
+                "deutsch",
+                "preview",
+                "lets play",
+                "lets",
+                "let's",
+                "testvideo"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Antichamber | Review / Test / GaCleRe",
+                "description": "Ein sehr eigenes Puzzlespiel!\nFalls sich wer fragt was QUBE ist www.qube-game.com"
+            }
+        }
+    }
+]

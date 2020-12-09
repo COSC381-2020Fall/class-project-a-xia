@@ -1,0 +1,63 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "hcp4hNpc-43U7PQiTJYUW0kyfRQ",
+        "id": "mnpjpdhUNjY",
+        "snippet": {
+            "publishedAt": "2020-07-26T08:04:41Z",
+            "channelId": "UC14WBFNvmBI3ImFywII3iLg",
+            "title": "To The Point:  How to play 'Among Us'",
+            "description": "A 4 min basic introduction to 'Among us' the game.\n\nLeave a comment below for the next tutorial you think I should make, or if you want a more indepth tips guide into Among us \n\nMaps: - Skeld - https://imgur.com/a/31YM4Pt\nMira - https://www.reddit.com/r/AmongUs/comments/ih62n2/mira_hq_35_screenshot_map_high_res_desktop/\nPolus - https://www.reddit.com/r/AmongUs/comments/ifk78b/polus_map_100_phone_screenshots_merged_together/\n\nCredits for creating Mira and Polus maps: https://www.reddit.com/user/mooseknuckle_king/\n\nOfficial Among us Discord: https://discord.com/invite/InnerSloth\n\nHopeless Idiots Discord: https://discord.gg/fTvVKSf\nCreated with the help of the Hopeless Idiots: https://www.youtube.com/channel/UCMRlbuyerpORdE14UhHkUIQ\nStreamed on Thursdays @ https://www.twitch.tv/hi_kalaan\n\nMusic: www.bensound.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/mnpjpdhUNjY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/mnpjpdhUNjY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/mnpjpdhUNjY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/mnpjpdhUNjY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/mnpjpdhUNjY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "To The Point",
+            "tags": [
+                "Among us",
+                "How to Play",
+                "Tutorial",
+                "To The Point",
+                "Tutorial Among us",
+                "Among us Tutorial",
+                "among us how to play with friends",
+                "how to play Among us",
+                "Among us how to play",
+                "among us how to play imposter",
+                "Among us Imposter Tutorial",
+                "Among Us Tips",
+                "Among Us Tips and Tricks"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "To The Point:  How to play 'Among Us'",
+                "description": "A 4 min basic introduction to 'Among us' the game.\n\nLeave a comment below for the next tutorial you think I should make, or if you want a more indepth tips guide into Among us \n\nMaps: - Skeld - https://imgur.com/a/31YM4Pt\nMira - https://www.reddit.com/r/AmongUs/comments/ih62n2/mira_hq_35_screenshot_map_high_res_desktop/\nPolus - https://www.reddit.com/r/AmongUs/comments/ifk78b/polus_map_100_phone_screenshots_merged_together/\n\nCredits for creating Mira and Polus maps: https://www.reddit.com/user/mooseknuckle_king/\n\nOfficial Among us Discord: https://discord.com/invite/InnerSloth\n\nHopeless Idiots Discord: https://discord.gg/fTvVKSf\nCreated with the help of the Hopeless Idiots: https://www.youtube.com/channel/UCMRlbuyerpORdE14UhHkUIQ\nStreamed on Thursdays @ https://www.twitch.tv/hi_kalaan\n\nMusic: www.bensound.com"
+            },
+            "defaultAudioLanguage": "en-GB"
+        }
+    }
+]

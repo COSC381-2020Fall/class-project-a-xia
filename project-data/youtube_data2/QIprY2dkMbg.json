@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "CLivp-_Az5SyldlZPB72aVaTh5w",
+        "id": "QIprY2dkMbg",
+        "snippet": {
+            "publishedAt": "2018-08-08T15:30:19Z",
+            "channelId": "UCr4CsSQsFzaVTMR2HzPLUhw",
+            "title": "Slime Rancher - PS4 Exclusive DLC Trailer",
+            "description": "PlayStation 4 EXCLUSIVE Downloadable Content is coming to Slime Rancher... for free!\n\nUse the new DLC Playset to dress up your slimes as heroic adventurers and watch them fight off a hoard of toy bop goblins. Install the PS4-exclusive Sapphire Chroma Pack to give your ranch house, vacpack, and ranch tech a shiny, new paint job!\n\nComing soon to PlayStation 4! Pre-order now to receive a FREE Slime Rancher Dynamic Theme!\n\nPre-Order Here: http://www.slimerancher.com/PS4\nEU Ranchers Pre-Order Here: http://bit.ly/SRPS4EU\n\nThe physical retail edition for Xbox One and PS4 will be in stores this September. Sign up for our newsletter for more information on when it will release! http://eepurl.com/dnL0cT\n\nDeveloped by Monomi Park\nhttp://www.slimerancher.com\nhttp://www.monomipark.com\n\nFollow us to stay up to date on news and events!\n\nhttp://www.twitter.com/monomipark\nhttp://www.instagram.com/monomi_park\nhttp://www.blog.monomipark.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/QIprY2dkMbg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/QIprY2dkMbg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/QIprY2dkMbg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/QIprY2dkMbg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/QIprY2dkMbg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Monomi Park",
+            "tags": [
+                "Slime Rancher",
+                "slime",
+                "slimes",
+                "PlayStation 4",
+                "PS4",
+                "PlayStation",
+                "exclusive",
+                "preorder",
+                "dlc",
+                "announcement",
+                "new",
+                "new slime",
+                "play",
+                "toy",
+                "fun",
+                "trailer",
+                "farm",
+                "farming",
+                "simulation",
+                "simulator",
+                "Monomi Park"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Slime Rancher - PS4 Exclusive DLC Trailer",
+                "description": "PlayStation 4 EXCLUSIVE Downloadable Content is coming to Slime Rancher... for free!\n\nUse the new DLC Playset to dress up your slimes as heroic adventurers and watch them fight off a hoard of toy bop goblins. Install the PS4-exclusive Sapphire Chroma Pack to give your ranch house, vacpack, and ranch tech a shiny, new paint job!\n\nComing soon to PlayStation 4! Pre-order now to receive a FREE Slime Rancher Dynamic Theme!\n\nPre-Order Here: http://www.slimerancher.com/PS4\nEU Ranchers Pre-Order Here: http://bit.ly/SRPS4EU\n\nThe physical retail edition for Xbox One and PS4 will be in stores this September. Sign up for our newsletter for more information on when it will release! http://eepurl.com/dnL0cT\n\nDeveloped by Monomi Park\nhttp://www.slimerancher.com\nhttp://www.monomipark.com\n\nFollow us to stay up to date on news and events!\n\nhttp://www.twitter.com/monomipark\nhttp://www.instagram.com/monomi_park\nhttp://www.blog.monomipark.com"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    }
+]

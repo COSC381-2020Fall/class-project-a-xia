@@ -1,0 +1,47 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "7oNVvZeU5k45fngLdu55FnrBl-E",
+        "id": "P8rDIZRAxoI",
+        "snippet": {
+            "publishedAt": "2020-09-30T04:42:52Z",
+            "channelId": "UC2wKfjlioOCLP4xQMOWNcgg",
+            "title": "AMONG US with FRIENDS! (rage)",
+            "description": "Among Us gameplay with basicallyidowrk, DaithiDeNogla, SMii7Y, Jericho, Vanoss, BigJigglyPanda and CourajeJD!\n► SUBSCRIBE! ► http://bit.ly/SubToTG\n► Get your MERCH here! ► https://typical.store\n\n► Subscribe to TG Plays! ► https://www.youtube.com/channel/UCqVCSWnuOSPm26orvNDTuWQ?sub_confirmation=1\n\nJOIN (YouTube Membership) ► https://www.youtube.com/channel/UC2wKfjlioOCLP4xQMOWNcgg/join\nDONATE ► https://streamlabs.com/typicalgamer\n\nTwitter: https://www.twitter.com/typicalgamer\nInstagram: https://www.instagram.com/typicalgamer",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/P8rDIZRAxoI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/P8rDIZRAxoI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/P8rDIZRAxoI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/P8rDIZRAxoI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/P8rDIZRAxoI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Typical Gamer",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AMONG US with FRIENDS! (rage)",
+                "description": "Among Us gameplay with basicallyidowrk, DaithiDeNogla, SMii7Y, Jericho, Vanoss, BigJigglyPanda and CourajeJD!\n► SUBSCRIBE! ► http://bit.ly/SubToTG\n► Get your MERCH here! ► https://typical.store\n\n► Subscribe to TG Plays! ► https://www.youtube.com/channel/UCqVCSWnuOSPm26orvNDTuWQ?sub_confirmation=1\n\nJOIN (YouTube Membership) ► https://www.youtube.com/channel/UC2wKfjlioOCLP4xQMOWNcgg/join\nDONATE ► https://streamlabs.com/typicalgamer\n\nTwitter: https://www.twitter.com/typicalgamer\nInstagram: https://www.instagram.com/typicalgamer"
+            }
+        }
+    }
+]

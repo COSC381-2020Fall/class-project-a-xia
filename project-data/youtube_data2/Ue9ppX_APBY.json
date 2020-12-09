@@ -1,0 +1,63 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "lIC2NMbYufSf7n4w2c8ulVWpZ4Y",
+        "id": "Ue9ppX_APBY",
+        "snippet": {
+            "publishedAt": "2018-09-06T22:06:04Z",
+            "channelId": "UC2-14fCE2BoenEJPrmRWSPQ",
+            "title": "Slime Song: Slime Rancher Remixed",
+            "description": "Remix master Chetreo made this song entirely out of sound effects from Monomi Park's wiggly adventure, Slime Rancher. The game is now available at retail for Xbox One and PS4!\n\nBuy now: https://www.skybound.com/slime-rancher/\n\n#SlimeSong\n\nRemix by: Chetreo\nyoutube.com/chetreo\nTwitter: @Chetreo\nFacebook: facebook.com/chetreo\n\nDeveloped by Monomi Park\nwww.slimerancher.com\nwww.monomipark.com\nFollow us on Twitter: @monomipark\n\nRetail release published by Skybound Games\nwww.skyboundgames.com\nFacebook: https://www.facebook.com/SkyboundGames/\nTwitter: @SkyboundGames",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Ue9ppX_APBY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Ue9ppX_APBY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Ue9ppX_APBY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Ue9ppX_APBY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Skybound Games",
+            "tags": [
+                "Skybound Games",
+                "Skybound",
+                "Robert Kirkman",
+                "The Walking Dead",
+                "Slime Rancher",
+                "slime rancher ps4",
+                "slime rancher xbox one",
+                "slime rancher",
+                "slime rancher song",
+                "slime song",
+                "slime song remix",
+                "slime",
+                "slimes",
+                "monomi park",
+                "monomi park games",
+                "Chetreo",
+                "chetreo instrumental"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Slime Song: Slime Rancher Remixed",
+                "description": "Remix master Chetreo made this song entirely out of sound effects from Monomi Park's wiggly adventure, Slime Rancher. The game is now available at retail for Xbox One and PS4!\n\nBuy now: https://www.skybound.com/slime-rancher/\n\n#SlimeSong\n\nRemix by: Chetreo\nyoutube.com/chetreo\nTwitter: @Chetreo\nFacebook: facebook.com/chetreo\n\nDeveloped by Monomi Park\nwww.slimerancher.com\nwww.monomipark.com\nFollow us on Twitter: @monomipark\n\nRetail release published by Skybound Games\nwww.skyboundgames.com\nFacebook: https://www.facebook.com/SkyboundGames/\nTwitter: @SkyboundGames"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "vDzKOlawmhPUBeTLXepzNVzCxOE",
+        "id": "d_0Tawc_1A4",
+        "snippet": {
+            "publishedAt": "2015-12-28T17:27:36Z",
+            "channelId": "UC0JB7TSe49lg56u6qH8y_MQ",
+            "title": "Antichamber: Three Years of Hardcore Iteration",
+            "description": "Antichamber was originally released as a mod for Unreal Tournament 3 in 2009. The core puzzles, mechanics and base themes were all in place. But what worked as a free mod had some serious issues when making the transition to a standalone commercial game. This GDC 2014 Main Conference talk from the game's creator Alex Bruce lays out an in-depth analysis of the several years of refinement that went into turning an abstract experiment into an independent hit.\nGDC talks cover a range of developmental topics including game design, programming, audio, visual arts, business management, production, online games, and much more. We post a fresh GDC video every weekday.  Subscribe to the channel to stay on top of regular updates, and check out GDC Vault  for thousands of more in-depth talks from our archives.\n\nFollow us on Twitter\nhttps://twitter.com/Official_GDC\n\nCheckout our Facebook page for GDC exclusives\nhttps://www.facebook.com/GameDevelopersConference\n\nhttp://www.gdconf.com/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/d_0Tawc_1A4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/d_0Tawc_1A4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/d_0Tawc_1A4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/d_0Tawc_1A4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/d_0Tawc_1A4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "GDC",
+            "tags": [
+                "gdc",
+                "talk",
+                "panel",
+                "game",
+                "games",
+                "gaming",
+                "development",
+                "hd",
+                "design"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Antichamber: Three Years of Hardcore Iteration",
+                "description": "Antichamber was originally released as a mod for Unreal Tournament 3 in 2009. The core puzzles, mechanics and base themes were all in place. But what worked as a free mod had some serious issues when making the transition to a standalone commercial game. This GDC 2014 Main Conference talk from the game's creator Alex Bruce lays out an in-depth analysis of the several years of refinement that went into turning an abstract experiment into an independent hit.\nGDC talks cover a range of developmental topics including game design, programming, audio, visual arts, business management, production, online games, and much more. We post a fresh GDC video every weekday.  Subscribe to the channel to stay on top of regular updates, and check out GDC Vault  for thousands of more in-depth talks from our archives.\n\nFollow us on Twitter\nhttps://twitter.com/Official_GDC\n\nCheckout our Facebook page for GDC exclusives\nhttps://www.facebook.com/GameDevelopersConference\n\nhttp://www.gdconf.com/"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    }
+]

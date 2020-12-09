@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "yEXXC8LdPGxhrSdxNjqwchwmVSE",
+        "id": "hto0rdqFFGc",
+        "snippet": {
+            "publishedAt": "2018-09-04T17:56:05Z",
+            "channelId": "UCr4CsSQsFzaVTMR2HzPLUhw",
+            "title": "Slime Rancher - In Stores Now!",
+            "description": "Explore the Far, Far Range with the new boxed edition of Slime Rancher on PS4 and Xbox One!\n\nEvery box includes: Digital Download for the Original Soundtrack, 10% off coupon for Fangamer Merchandise, and a Slimepedia Booklet.\n\nBuy now online or at your local game shop!\n\nFollow us to stay up to date on news and events:\n\nhttp://www.twitter.com/monomipark\nhttp://www.instagram.com/monomi_park\nhttp://www.blog.monomipark.com\n\n\nDeveloped by Monomi Park\nhttp://www.slimerancher.com\nhttp://www.monomipark.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hto0rdqFFGc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hto0rdqFFGc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hto0rdqFFGc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/hto0rdqFFGc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/hto0rdqFFGc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Monomi Park",
+            "tags": [
+                "Slime Rancher",
+                "slime",
+                "slimes",
+                "announcement",
+                "retail",
+                "box",
+                "boxed",
+                "special edition",
+                "promotion",
+                "indie game",
+                "farming",
+                "simulation",
+                "farming sim",
+                "PS4",
+                "Xbox",
+                "Xbox One",
+                "PlayStation",
+                "games",
+                "indie",
+                "Monomi Park"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Slime Rancher - In Stores Now!",
+                "description": "Explore the Far, Far Range with the new boxed edition of Slime Rancher on PS4 and Xbox One!\n\nEvery box includes: Digital Download for the Original Soundtrack, 10% off coupon for Fangamer Merchandise, and a Slimepedia Booklet.\n\nBuy now online or at your local game shop!\n\nFollow us to stay up to date on news and events:\n\nhttp://www.twitter.com/monomipark\nhttp://www.instagram.com/monomi_park\nhttp://www.blog.monomipark.com\n\n\nDeveloped by Monomi Park\nhttp://www.slimerancher.com\nhttp://www.monomipark.com"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    }
+]

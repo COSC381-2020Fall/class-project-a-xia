@@ -1,0 +1,59 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "yKIZVN2nsWoQ2q0Pj_iEBnjmKVE",
+        "id": "mswtHmqE1go",
+        "snippet": {
+            "publishedAt": "2018-04-04T16:00:04Z",
+            "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+            "title": "Slime Rancher - Announcement Trailer | PS4",
+            "description": "Slime Rancher is a charming, first-person, sandbox experience. You play as Beatrix LeBeau: a plucky, young rancher who sets out for a life a thousand light years away from Earth on the ‘Far, Far Range.’\n\nCollect colorful slimes, grow crops, harvest resources, and explore the untamed wilds through the mastery of your all-purpose vacpack.\n\nSlime Rancher is wiggling to PlayStation 4 this September!\n\nDeveloped by Monomi Park\nhttp://www.slimerancher.com\nwww.monomipark.com\nFollow us on Twitter: Twitter.com/MonomiPark\n\n© Monomi Park, LLC",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/mswtHmqE1go/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/mswtHmqE1go/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/mswtHmqE1go/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/mswtHmqE1go/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/mswtHmqE1go/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "PlayStation",
+            "tags": [
+                "Slime Rancher",
+                "Monomi Park",
+                "cute",
+                "slime",
+                "farming",
+                "simulation",
+                "explore",
+                "adventure",
+                "first-person"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Slime Rancher - Announcement Trailer | PS4",
+                "description": "Slime Rancher is a charming, first-person, sandbox experience. You play as Beatrix LeBeau: a plucky, young rancher who sets out for a life a thousand light years away from Earth on the ‘Far, Far Range.’\n\nCollect colorful slimes, grow crops, harvest resources, and explore the untamed wilds through the mastery of your all-purpose vacpack.\n\nSlime Rancher is wiggling to PlayStation 4 this September!\n\nDeveloped by Monomi Park\nhttp://www.slimerancher.com\nwww.monomipark.com\nFollow us on Twitter: Twitter.com/MonomiPark\n\n© Monomi Park, LLC"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    }
+]

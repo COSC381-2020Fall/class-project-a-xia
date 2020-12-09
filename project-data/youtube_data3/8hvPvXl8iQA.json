@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "bUoQV1ccErVxi2IdjZatNXBlrUs",
+        "id": "8hvPvXl8iQA",
+        "snippet": {
+            "publishedAt": "2014-10-13T19:42:48Z",
+            "channelId": "UC7W5LTUy7DJYpx0cpVKJe0g",
+            "title": "Oculus Rift DK2 - Antichamber - Mind Bending",
+            "description": "We take a look at Antichamber on the Oculus Rift DK2 on vorpX settings below!\n\nAntichamber is a mind-bending psychological exploration game where nothing can be taken for granted. Discover an Escher-like world where hallways wrap around upon each other, spaces reconfigure themselves, and accomplishing the impossible may just be the only way forward.\n\nFullscreen Windowed Mode - DirectX 11Beta\nStart on Main Monitor then use shortcut WINDOWS KEY, SHIFT & ARROW KEY LEFT to move to the Rift.\n\nIf vorpX does not hook the game, quit out, pause the watcher (right click vorpX in the bottom right) and then resume the watcher.\n\n1920 x 1080 - 75hz Refresh Rate\nV-Sync OFF\n\nAntichamber - http://www.antichamber-game.com\nOculus Rift - http://www.oculus.com\nvorpX - http://www.vorpx.com\n\nvorpX Settings\nZ-Adaptive Mode\nLetterbox 1\nIPD 63.1mm - That is just for my eyes! (Move till it looks good)\nHeadtracking sensitivity 1.10\nHeadtracking Smooth None\nFix Chromatic Aberration - ON\n\n\nOther Settings - Catalyst Control Center \nContrast - 70\nSaturation - 140\nHue - 6\nBrightness - 40 - 50\n\nSee Oculus Rift Setup Guides\nhttps://www.youtube.com/watch?v=tjUO0s0jLqg - Basics\nhttps://www.youtube.com/watch?v=YmZPDZFWzv0 -Advanced\nhttps://www.youtube.com/watch?v=WFND8-bWVZI - Refresh Rates\n\nSystem Spec\nAMD FX 8320 - @ 4.00GHz\n16GB 2400mhz Ram DDR3 Corsair Pro Vengeance 4x4GB\nAMD Radeon R9 290X 4GB - @ GPU 1120 & Mem 1450\nXonar DGX Sound Card\n\nCatalystic 14.9 Drivers\nWindows 7 64 Home Premium\nOculus Rift DK2 Firmware 2.12\nOculus SDK 0.4.3Beta\n\nSUBSCRIBE - http://www.youtube.com/user/BoredGamerUK?sub_confirmation=1\nWEBSITE - http://www.boredgamer.co.uk\nDONATE - http://www.boredgamer.co.uk/#!support-us/c938\nTWITTER - http://twitter.com/BoredGamerUK\n\nAll Music Provided by Matthew Huffaker aka Teknoaxe\nTeknoaxe Youtube - http://www.youtube.com/teknoaxe\nTeknoaxe Website - http://teknoaxe.com/Home.php",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8hvPvXl8iQA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8hvPvXl8iQA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8hvPvXl8iQA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8hvPvXl8iQA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/8hvPvXl8iQA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "BoredGamer",
+            "tags": [
+                "Antichamber (Video Game)",
+                "Oculus Rift (Video Game Platform)",
+                "Oculus Rift VR",
+                "Oculus VR",
+                "Oculus Rift DK2",
+                "Oculus Rift",
+                "Oculus DK2",
+                "Antichamber VR",
+                "Oculus Antichamber",
+                "vorpX"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Oculus Rift DK2 - Antichamber - Mind Bending",
+                "description": "We take a look at Antichamber on the Oculus Rift DK2 on vorpX settings below!\n\nAntichamber is a mind-bending psychological exploration game where nothing can be taken for granted. Discover an Escher-like world where hallways wrap around upon each other, spaces reconfigure themselves, and accomplishing the impossible may just be the only way forward.\n\nFullscreen Windowed Mode - DirectX 11Beta\nStart on Main Monitor then use shortcut WINDOWS KEY, SHIFT & ARROW KEY LEFT to move to the Rift.\n\nIf vorpX does not hook the game, quit out, pause the watcher (right click vorpX in the bottom right) and then resume the watcher.\n\n1920 x 1080 - 75hz Refresh Rate\nV-Sync OFF\n\nAntichamber - http://www.antichamber-game.com\nOculus Rift - http://www.oculus.com\nvorpX - http://www.vorpx.com\n\nvorpX Settings\nZ-Adaptive Mode\nLetterbox 1\nIPD 63.1mm - That is just for my eyes! (Move till it looks good)\nHeadtracking sensitivity 1.10\nHeadtracking Smooth None\nFix Chromatic Aberration - ON\n\n\nOther Settings - Catalyst Control Center \nContrast - 70\nSaturation - 140\nHue - 6\nBrightness - 40 - 50\n\nSee Oculus Rift Setup Guides\nhttps://www.youtube.com/watch?v=tjUO0s0jLqg - Basics\nhttps://www.youtube.com/watch?v=YmZPDZFWzv0 -Advanced\nhttps://www.youtube.com/watch?v=WFND8-bWVZI - Refresh Rates\n\nSystem Spec\nAMD FX 8320 - @ 4.00GHz\n16GB 2400mhz Ram DDR3 Corsair Pro Vengeance 4x4GB\nAMD Radeon R9 290X 4GB - @ GPU 1120 & Mem 1450\nXonar DGX Sound Card\n\nCatalystic 14.9 Drivers\nWindows 7 64 Home Premium\nOculus Rift DK2 Firmware 2.12\nOculus SDK 0.4.3Beta\n\nSUBSCRIBE - http://www.youtube.com/user/BoredGamerUK?sub_confirmation=1\nWEBSITE - http://www.boredgamer.co.uk\nDONATE - http://www.boredgamer.co.uk/#!support-us/c938\nTWITTER - http://twitter.com/BoredGamerUK\n\nAll Music Provided by Matthew Huffaker aka Teknoaxe\nTeknoaxe Youtube - http://www.youtube.com/teknoaxe\nTeknoaxe Website - http://teknoaxe.com/Home.php"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    }
+]

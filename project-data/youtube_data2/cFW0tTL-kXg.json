@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "LGXKFUgaAGUApfRVnHZBNxaoeSs",
+        "id": "cFW0tTL-kXg",
+        "snippet": {
+            "publishedAt": "2017-10-28T13:30:00Z",
+            "channelId": "UC1o4Ct4ca7uzqohH0xdaZpQ",
+            "title": "EXPLODING SLIMES!!! Slime Rancher - Part 3",
+            "description": "EXPLODING SLIMES!!! Slime Rancher - Part 3. I hope you like it!\n\nFollow me on Instagram!\n→ https://www.instagram.com/ethangamer/\n\nAbout Slime Rancher\n\nSlime Rancher is the tale of Beatrix LeBeau, a plucky, young rancher who sets out for a life a thousand light years away from Earth on the 'Far, Far Range' where she tries her hand at making a living wrangling slimes. With a can-do attitude, plenty of grit, and her trusty vacpack, Beatrix attempts to stake a claim, amass a fortune, and avoid the continual peril that looms from the rolling, jiggling avalanche of slimes around every corner!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/cFW0tTL-kXg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/cFW0tTL-kXg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/cFW0tTL-kXg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/cFW0tTL-kXg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/cFW0tTL-kXg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "EthanGamer",
+            "tags": [
+                "ethan gamer tv",
+                "ethangamertv",
+                "ethangamer",
+                "ethan gamer",
+                "egtv",
+                "family friendly",
+                "let's play",
+                "gameplay",
+                "video games"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en-GB",
+            "localized": {
+                "title": "EXPLODING SLIMES!!! Slime Rancher - Part 3",
+                "description": "EXPLODING SLIMES!!! Slime Rancher - Part 3. I hope you like it!\n\nFollow me on Instagram!\n→ https://www.instagram.com/ethangamer/\n\nAbout Slime Rancher\n\nSlime Rancher is the tale of Beatrix LeBeau, a plucky, young rancher who sets out for a life a thousand light years away from Earth on the 'Far, Far Range' where she tries her hand at making a living wrangling slimes. With a can-do attitude, plenty of grit, and her trusty vacpack, Beatrix attempts to stake a claim, amass a fortune, and avoid the continual peril that looms from the rolling, jiggling avalanche of slimes around every corner!"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    }
+]
