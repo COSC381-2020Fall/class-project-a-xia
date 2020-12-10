@@ -39,31 +39,34 @@ def handle_query_view():
         session['history_enabled'] = True
 
     query_term = request.args.get("q")
-    if not query_term:
-        query_term = ''
-    
     topic = request.args.get("topic")
-    if not topic:
-        topic = ''
-
     p = request.args.get("p")
-    if p:
-        page_num = int(p)
+
+    if not query_term and not topic and not p:
+        search_results = 'no search'
+        page_count = 0
     else:
-        page_num = 1
-    
-    # only adds to history db if not empty and if search history is enabled
-    if query_term and topic and not p and session['history_enabled']:
-        conn = sqlite3.connect('search_history.db')
-        c = conn.cursor()
-        c.execute("INSERT INTO search_terms (term, search_time, search_topic) VALUES (?, strftime('%s', 'now'), ?);", (query_term, topic))
-        conn.commit()
-        conn.close()
-    
-    query_results = query_on_whoosh.query(query_term, topic, 10, page_num)
-    search_results = query_results[0]
-    results_num = int(query_results[1])
-    page_count = math.ceil(results_num/10)
+        if not query_term:
+            query_term = ''
+        if not topic:
+            topic = ''
+        if p:
+            page_num = int(p)
+        else:
+            page_num = 1
+        
+        # only adds to history db if not empty and if search history is enabled
+        if query_term and topic and not p and session['history_enabled']:
+            conn = sqlite3.connect('search_history.db')
+            c = conn.cursor()
+            c.execute("INSERT INTO search_terms (term, search_time, search_topic) VALUES (?, strftime('%s', 'now'), ?);", (query_term, topic))
+            conn.commit()
+            conn.close()
+        
+        query_results = query_on_whoosh.query(query_term, topic, 10, page_num)
+        search_results = query_results[0]
+        results_num = int(query_results[1])
+        page_count = math.ceil(results_num/10)
     return render_template("query.html",
                            results=search_results,
                            query_term=query_term,
