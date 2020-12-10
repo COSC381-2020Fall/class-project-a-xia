@@ -31,11 +31,26 @@ div.nav li a {
 	padding:14px 20px;
 	text-decoration:none;
 }
-div.nav li a:hover:not(.active) {
+div.nav li a:hover:not(.active), .dropdown:hover .dropbtn {
 	background-color:#00070e;
 }
 .active {
 	background-color:#005499;
+}
+div.submenu {
+	display: none;
+	position: absolute;
+	background-color: #b4cbdf;
+}
+li.dropdown:hover .submenu {
+	display: block;
+}
+a.subitem {
+	color: black !important;
+}
+a.subitem:hover {
+	color: white !important;
+	background-color: #8fa0af !important;
 }
 div.body {
 	margin: 0px 10px 10px;

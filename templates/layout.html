@@ -10,7 +10,12 @@
             <ul>
                 <li><a {% block home %}{% endblock %} href="/">Home</a></li>
                 <li><a {% block about %}{% endblock %} href="about">About</a></li>
-                <li><a {% block search %}{% endblock %} href="query_view">Search</a></li>
+                <li class="dropdown">
+                    <a class="dropbtn{% block search %}{% endblock %}" href="query_view">Search</a>
+                    <div class="submenu">
+                        <a class="subitem" href="history">Search History</a>
+                    </div>
+                </li>
                 <li><a {% block feedback %}{% endblock %} href="feedback">Feedback</a></li>
                 <li><a {% block settings %}{% endblock %} href="settings">Settings</a></li>
             </ul>
