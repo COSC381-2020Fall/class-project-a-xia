@@ -9,8 +9,8 @@
     <p><a href="history">Search history</a></p>
     <br>
     <form action="query_view" method="GET">
-        <input type="text" name="q" placeholder="Ex: imposter, play, friends">
-        <select name="topic" required>
+        <input type="text" name="q" id="q" placeholder="">
+        <select name="topic" id="topic" required>
             <option hidden disabled selected value>Select a topic</option>
             {% for topic in topic_list%}
             <option value="{{ topic }}">{{ topic }}</option>
@@ -18,16 +18,32 @@
         </select>
         <input type="submit" value="Search">
     </form>
-    {% for item in results %}
-        <a href="{{ item.url }}"><p>{{ item.title }}</p></a>
-        <p>{{ item.description }}</p>
-        <br>
-    {% endfor %}
-    {% if results %}
-        <p>Page
-            {% for index in range(1, page_count + 1) %}
-                <a href="query_view?q={{ query_term }}&topic={{ topic }}&p={{ index }}">{{ index }}</a>
+    {% if results != 'no search' %}
+        {% if results %}
+            {% for item in results %}
+                <a href="{{ item.url }}"><p>{{ item.title }}</p></a>
+                <p>{{ item.description }}</p>
+                <br>
             {% endfor %}
-        </p>
+            <p>Page
+                {% for index in range(1, page_count + 1) %}
+                    <a href="query_view?q={{ query_term }}&topic={{ topic }}&p={{ index }}">{{ index }}</a>
+                {% endfor %}
+            </p>
+        {% else %}
+            <p>There were no results for your search.</p>
+        {% endif %}
     {% endif %}
+    <script type="text/javascript">
+        searchbox = document.getElementById("q");
+        document.getElementById("topic").onchange = function() {
+            var topic = this.value;
+            if (topic == "Among Us")
+                searchbox.placeholder = "Ex. imposter, play, friends";
+            else if (topic == "Slime Rancher")
+                searchbox.placeholder = "Ex. play, explore, cute";
+            else if (topic == "Antichamber")
+                searchbox.placeholder = "Ex. puzzle, escher, play";
+        };
+    </script>
 {% endblock %}
